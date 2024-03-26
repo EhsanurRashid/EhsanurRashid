@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Learning Python with Projects</b>
-  - Machine Usage Reporting Script
+  - [Machine Usage Reporting Script](https://github.com/EhsanurRashid/TrackUseofMachine)
 
 <h2>📺 Popular Research Paper</h2>
 
