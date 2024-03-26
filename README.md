@@ -2,10 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Project coming</b>
-  - [updating profile]
-- <b>Python</b>
-  - [helloworld]
+- <b>Learning Python with Projects</b>
+  - Machine Usage Reporting Script
 
 <h2>📺 Popular Research Paper</h2>
 
