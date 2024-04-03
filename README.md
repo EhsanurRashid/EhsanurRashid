@@ -4,6 +4,7 @@
 
 - <b>Learning Python with Projects</b>
   - [Machine Usage Reporting Script](https://github.com/EhsanurRashid/TrackUseofMachine)
+  - [Number Guessing game](https://github.com/EhsanurRashid/numberguess)
 
 <h2>📺 Popular Research Paper</h2>
 
