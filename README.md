@@ -11,7 +11,7 @@
  <h2>👨‍💻 Certification:</h2>
 
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/92cf62df-681f-44a1-b490-14f4b142e6ec/linked_in_profile)
-  - [Automated Cybersecurity tasks with puthon](https://coursera.org/share/d8145e8f25cfa2c689ce3eaa1d754713)
+  - [Automated Cybersecurity tasks with python](https://coursera.org/share/d8145e8f25cfa2c689ce3eaa1d754713)
   - [Wireshark for Beginners: TCP IP Protocol Fundamentals](https://coursera.org/share/4fe004d47903d9496026c04c5a3a2602)
   - [Tools of the Trade: Linux and SQL](https://coursera.org/share/fc2e795dc57702cd9a8fdc4b7ce2f41b)
   - [Crash Course on Python](https://coursera.org/share/615d666c2dfe96aaf8dc42bff340ca6d)
