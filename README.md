@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ehsanur! <br/><a href="https://github.com/EhsanurRashid">Programmer</a>, <a href="https://www.linkedin.com/in/ehsanur-rashid-lipu/">Cybersecurity Graduate</a>, <a href="https://scholar.google.com/citations?user=kxCsIPMAAAAJ&hl=en">Researcher</a>, <a> Business Analyst</a>, <a> Data Analyst</a> </a></h1>
+<h1>Hi, I'm Ehsanur! <br/><a>Programmer</a>, <a>Cybersecurity Graduate</a>, <a>Researcher</a>, <a> IT Support Specialist</a>, <a> Data Analyst</a> </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
